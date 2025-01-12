@@ -219,7 +219,7 @@ body:hover #cursor-dot-outline {
   transform: scale(1.2); /* Increase size slightly on hover */
 }
 
-/* Responsive */
+/* Responsive  */
 @media screen and (max-width: 768px) {
     #timeline {
         margin: 30px;
