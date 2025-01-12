@@ -211,7 +211,6 @@ header:after, header:before {
   opacity: 0.9; 
   transition: all 0.1s ease;
 }
-}
 
 /* Cursor on Hover (Optional) */
 body:hover #cursor-dot,
